@@ -42,7 +42,7 @@ CUDA_VISIBLE_DEVICES=0 python test_clipreid.py --config_file configs/person/vit_
 
 ### Acknowledgement
 
-Codebase from [TransReID](https://github.com/damo-cv/TransReID), [CLIP](https://github.com/openai/CLIP), CLIP-Reid, and [CoOp](https://github.com/KaiyangZhou/CoOp).
+Codebase from [TransReID](https://github.com/damo-cv/TransReID), [CLIP](https://github.com/openai/CLIP), [CLIP-Reid](https://github.com/Syliz517/CLIP-ReID), and [CoOp](https://github.com/KaiyangZhou/CoOp).
 
 
 
